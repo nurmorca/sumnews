@@ -1,0 +1,8 @@
+pandas
+streamlit
+transformers
+nltk
+requests
+beautifulsoup4
+time
+lxml
