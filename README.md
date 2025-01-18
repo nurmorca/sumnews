@@ -48,6 +48,7 @@ streamlit run path/to/main.py
 sumnews/
 ├── Code/                 # Folder for all the code in the project, including for fine-tuning and UI.
 ├── Database/             # Folder for the .txt file that keeps the info of the datasets that's been used for fine-tuning.
+├── Doc/                  # Folder for keeping the report (in Turkish) and article (in English) of the project. 
 ├── requirements.txt      # Project dependencies
 ├── README.md             # Project documentation
 ```
