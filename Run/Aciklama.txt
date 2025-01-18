@@ -1,8 +1,0 @@
-Web uygulamasının lokalde çalıştırılması için:
-- main.py dosyasının path'i elde edilir.
-- main.py dosyası Visual Studio Code uygulamasında açılır.
-- Uygulama içinde terminal açılır.
-- streamlit kütüphanesi indirilir.
-- Terminalde 'streamlit run [main.py'a ait path]' komutu çalıştırılır.
-- Uygulama web tarayıcısında çalışır.
-
